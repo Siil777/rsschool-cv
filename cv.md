@@ -25,6 +25,16 @@ I had practice for half a year in prospect small company CubixLab OÜ which enga
 * Javascript (basic)
 * SQL server
 * XAMPP
+### Code example
+```
+var previousButton = document.getElementById('hp-previous');
+if (previousButton!== null){
+        previousButton.addEventListener('click', function(){
+            showPreviousQuestion();
+            updateCircleColor();
+        });
+}
+```
 
 
 

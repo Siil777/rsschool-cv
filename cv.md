@@ -7,7 +7,7 @@
       <h2>Email: <em>ivanagasaki00@gmail.com</em></h2>
       <h2>www: <a href="https://github.com/Siil777">github</a></h2>
     </td>
-    <td style="text-align:right;">
+    <td style="text-align:center;">
       <img src="img/me.jpg" style="width:20%; height:auto;">
     </td>
   </tr>

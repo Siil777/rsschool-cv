@@ -1,0 +1,24 @@
+.img {
+    width: 150px;
+    height:200px;
+}
+
+.img-background {
+    position: relative;
+    z-index: 0;
+    font-family: emoji;
+    
+}
+.img-background::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-image: url(../../img/nature.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+    z-index: -1;
+}

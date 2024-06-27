@@ -22,17 +22,24 @@
 
 ## Experience in IT field of activity
 *I had practice for half a year in prospect small company CubixLab OÜ which engaged with web app development, participated in a real project, as well I continue to practice in this company.*
+### worked with:
+# Gulp
+# Webpack
 
 ### Purpose of education
 *Repeat basic stuff and pin study material, delve into the study of javascript*
 
 ### About me
-*Higher and secondary education can include many languages and tools like python, C#, vba, google scripts, javascript, c++, php at the same time. On the one hand to have many languages of programming for short period of time it is a good way to look around and broaden mind, on the other, as rule it is not enough to become a specialist in some one.*
+*I have wroked with such languages like python, C#, vba, google scripts, javascript, c++, php. On the one hand to have many languages of programming for short period of time it is a good way to look around and broaden mind, on the other, as rule it is not enough to become a specialist in some one. Now I am focused on javascript. Have a passion for English*
 
 ### Skills
 * HTML
 * CSS
 * Javascript (basic)
+* PHP (bacis)
+* C# (MVC) (basic)
+* Manual QA testing (basic)
+* git
 * SQL server
 * XAMPP
 

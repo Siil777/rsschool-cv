@@ -16,9 +16,9 @@
     right: 0;
     left: 0;
     bottom: 0;
-    background-image: url(../../img/nature.webp);
+    background-image: url(img/cyber.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    opacity: 0.5;
+    opacity: 0.7;
     z-index: -1;
 }

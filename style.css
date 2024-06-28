@@ -2,12 +2,13 @@
     width: 150px;
     height:200px;
 }
-
+body {
+   overflow-x: hidden; 
+}
 .img-background {
     position: relative;
     z-index: 0;
     font-family: emoji;
-    
 }
 .img-background::before {
     content: "";

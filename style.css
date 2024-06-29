@@ -23,3 +23,6 @@ body {
     opacity: 0.7;
     z-index: -1;
 }
+.for-png {
+    border-radius: 10%;
+}
